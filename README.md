@@ -14,8 +14,12 @@ If you encounter missing or non-working video previews, this is normal due to Gi
 
 After doing the videos downloading step in (⚠️ Video Playback Issue), run the code(index.html) using live server
 
-The main page includes the storyline of events (just scroll, no extra controls required)
 
+- The main page includes the storyline of events (just scroll, no extra controls required)
+- Character page has a slider animation as well as a carousel.
+- The game consists of 3 different avengers you can pick from, and a villian as the second player (This is a TWO player game)
+if you defeat the villian (you win), if not, you lose
+  
 ## Technologies Used
 - Javascript
 - HTML
