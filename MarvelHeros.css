@@ -17,7 +17,9 @@ body {
 }
 
 .sliderTitle h1 {
-	width: 2000px;
+	width: 100%;
+	min-width: 1800px;
+	max-width: 1920px;
     font-size: 3rem;
     font-weight: 900;
     letter-spacing: 2px;
