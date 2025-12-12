@@ -14,7 +14,7 @@ If you encounter missing or non-working video previews, this is normal due to Gi
 
 After doing the videos downloading step in (⚠️ Video Playback Issue), run the code(index.html) using live server
 
-The main page includes the storyline of events
+The main page includes the storyline of events (just scroll, no extra controls required)
 
 ## Technologies Used
 - Javascript
