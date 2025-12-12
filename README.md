@@ -5,7 +5,7 @@ Some videos in this project **may not play directly on GitHub**.
 ### How to view the videos
 1. **Download the video via google drive (https://drive.google.com/drive/folders/1oZnvkuC7XHb0-n90G9Zkyn5YsOmTfSMz?usp=sharing)  to your computer**  
 2. **Download the repository to your computer and unzip it (if needed)**
-3. **Replace the (videos) file in the repository with the (videos) file from the google drive**
+3. **Replace the (videos) file in the repository (that you have downloaded) with the (videos) file from the google drive**
 ---
 
 If you encounter missing or non-working video previews, this is normal due to GitHub's limitations (or my videos are corrupted).
