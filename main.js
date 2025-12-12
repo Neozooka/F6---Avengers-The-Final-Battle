@@ -37,7 +37,7 @@ function view_story() {
 
 window.addEventListener("click", function(e) {
     if (game_state.story_mode) {
-         window.location.href = "MainPage.html";                 
+         window.location.href = "index.html";                 
     }
 });
 
