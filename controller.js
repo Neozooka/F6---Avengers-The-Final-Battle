@@ -64,7 +64,7 @@ function update_player(player) {
     if (player.y > world.height) { 
         player.hp = 0;
         player.dead = true;
-    }}
+    }}                                                      //End of AI gen code
 
 function update_controls() {
     update_player(player_1);
@@ -75,4 +75,4 @@ function update_controls() {
     }
     if (player_2.ranged_cooldown > 0){
          player_2.ranged_cooldown--;
-    }}
+    }}                                              
